@@ -6,7 +6,14 @@ Configuração básica de um macropad 3x3 usando um **Arduino ProMicro**
 
 Ferro de solda \
 Diodo 1n4148 \
-Arduino ProMicro \
+Arduino ProMicro 
+
+
+
+
+
+<!-- eu vi esse video antes de começar a fazer https://www.youtube.com/watch?v=BcXycScePHM, \
+além de que eu recomendo o canal do Joe Scotto -->
 
 # Programas usados:
 
