@@ -17,7 +17,7 @@ além de que eu recomendo o canal do Joe Scotto -->
 
 # Programas usados:
 
-https://github.com/qmk/qmk_firmware/blob/master/docs/keycodes.md
+https://github.com/qmk/qmk_firmware/blob/master/docs/keycodes.md \
 https://github.com/qmk/qmk_toolbox
 
 *Há tutoriais no youtube que estão destaualizados, houve algumas mudanças no processo de configuracao do **qmk_firmware** \
